@@ -1,0 +1,2 @@
+This repo contains code for creating binary label masks from reading a JSON annotation file.
+The masks and images with annotations are put in seperate folders which can be given in the directory variables. 
